@@ -1,0 +1,68 @@
+D:\c#\project\project\bin\Debug\project.exe.config
+D:\c#\project\project\bin\Debug\project.exe
+D:\c#\project\project\bin\Debug\project.pdb
+D:\c#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\c#\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\c#\project\project\obj\Debug\project.Form1.resources
+D:\c#\project\project\obj\Debug\project.Properties.Resources.resources
+D:\c#\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\c#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\c#\project\project\obj\Debug\project.exe
+D:\c#\project\project\obj\Debug\project.pdb
+D:\c#\project\project\bin\Debug\Guna.UI2.dll
+D:\c#\project\project\obj\Debug\project.csproj.CopyComplete
+D:\c#\project\project\obj\Debug\project.Dashboard.resources
+D:\c#\project\project\obj\Debug\project.All__User_Control.UC_AddRoom.resources
+D:\c#\project\project\obj\Debug\project.exe.config
+D:\c#\project\project\bin\Debug\MySql.Data.dll
+D:\c#\project\project\bin\Debug\MySql.Data.EntityFramework.dll
+D:\c#\project\project\bin\Debug\MySql.Web.dll
+D:\c#\project\project\bin\Debug\Google.Protobuf.dll
+D:\c#\project\project\bin\Debug\ZstdNet.dll
+D:\c#\project\project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\c#\project\project\bin\Debug\BouncyCastle.Crypto.dll
+D:\c#\project\project\bin\Debug\Ubiety.Dns.Core.dll
+D:\c#\project\project\bin\Debug\System.Memory.dll
+D:\c#\project\project\bin\Debug\System.Buffers.dll
+D:\c#\project\project\bin\Debug\K4os.Compression.LZ4.dll
+D:\c#\project\project\bin\Debug\K4os.Hash.xxHash.dll
+D:\c#\project\project\bin\Debug\MySql.Data.xml
+D:\c#\project\project\bin\Debug\MySql.Data.EntityFramework.xml
+D:\c#\project\project\bin\Debug\MySql.Web.xml
+D:\c#\project\project\obj\Debug\project.All__User_Control.UC_Customer.resources
+D:\c#\project - Copy\project\bin\Debug\project.exe.config
+D:\c#\project - Copy\project\bin\Debug\project.exe
+D:\c#\project - Copy\project\bin\Debug\project.pdb
+D:\c#\project - Copy\project\bin\Debug\Guna.UI2.dll
+D:\c#\project - Copy\project\bin\Debug\MySql.Data.dll
+D:\c#\project - Copy\project\bin\Debug\MySql.Data.EntityFramework.dll
+D:\c#\project - Copy\project\bin\Debug\MySql.Web.dll
+D:\c#\project - Copy\project\bin\Debug\Google.Protobuf.dll
+D:\c#\project - Copy\project\bin\Debug\ZstdNet.dll
+D:\c#\project - Copy\project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\c#\project - Copy\project\bin\Debug\BouncyCastle.Crypto.dll
+D:\c#\project - Copy\project\bin\Debug\Ubiety.Dns.Core.dll
+D:\c#\project - Copy\project\bin\Debug\System.Memory.dll
+D:\c#\project - Copy\project\bin\Debug\System.Buffers.dll
+D:\c#\project - Copy\project\bin\Debug\K4os.Compression.LZ4.dll
+D:\c#\project - Copy\project\bin\Debug\K4os.Hash.xxHash.dll
+D:\c#\project - Copy\project\bin\Debug\MySql.Data.xml
+D:\c#\project - Copy\project\bin\Debug\MySql.Data.EntityFramework.xml
+D:\c#\project - Copy\project\bin\Debug\MySql.Web.xml
+D:\c#\project - Copy\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\c#\project - Copy\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\c#\project - Copy\project\obj\Debug\project.exe.config
+D:\c#\project - Copy\project\obj\Debug\project.All__User_Control.UC_AddRoom.resources
+D:\c#\project - Copy\project\obj\Debug\project.All__User_Control.UC_Customer.resources
+D:\c#\project - Copy\project\obj\Debug\project.Dashboard.resources
+D:\c#\project - Copy\project\obj\Debug\project.Form1.resources
+D:\c#\project - Copy\project\obj\Debug\project.Properties.Resources.resources
+D:\c#\project - Copy\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\c#\project - Copy\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\c#\project - Copy\project\obj\Debug\project.csproj.CopyComplete
+D:\c#\project - Copy\project\obj\Debug\project.exe
+D:\c#\project - Copy\project\obj\Debug\project.pdb
+D:\c#\project - Copy\project\obj\Debug\project.UserControl1.resources
+D:\c#\project - Copy\project\obj\Debug\project.UserControl2.resources
+D:\c#\project - Copy\project\obj\Debug\project.UserControl3.resources
+D:\c#\project - Copy\project\obj\Debug\project.UserControl4.resources
